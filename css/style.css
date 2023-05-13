@@ -449,6 +449,7 @@ letter-spacing: 0.02em;
     justify-content: center;
 
     color:#8e8f99;
+    fill: currentColor;
 }
 
 .link-icon{
@@ -467,6 +468,7 @@ letter-spacing: 0.02em;
 .link-icon:hover,
 .link-icon:focus{
     border-color: #404bbf;
+    color: #404bbf;
 }
   
 /* FOOTER */
