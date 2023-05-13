@@ -464,8 +464,8 @@ letter-spacing: 0.02em;
     color: #8e8f99;
 }
 
-.icon-item:hover,
-.icon-item:focus{
+.link-icon:hover,
+.link-icon:focus{
     border-color: #404bbf;
 }
   
