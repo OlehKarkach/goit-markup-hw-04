@@ -347,7 +347,7 @@ letter-spacing: 0.02em;
 
 .social-media{
     display: flex;
-    justify-content: center;
+    /* justify-content: center; */
     gap: 24px;
     width: 40px;
     height: 40px;
@@ -355,6 +355,7 @@ letter-spacing: 0.02em;
 
 .social-media-item{
     display: flex;
+    justify-content: center;
 }
 
 
