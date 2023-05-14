@@ -345,11 +345,16 @@ letter-spacing: 0.02em;
     padding-right: 16px;
 }
 
-.social-meadia-item{
+.social-media{
     display: flex;
     justify-content: center;
     gap: 24px;
+    width: 40px;
+    height: 40px;
+}
 
+.social-media-item{
+    display: flex;
 }
 
 
