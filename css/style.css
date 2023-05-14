@@ -345,8 +345,8 @@ letter-spacing: 0.02em;
     padding-right: 16px;
 }
 
-.social-meadia{
-    /* display: flex; */
+.social-meadia-item{
+    display: flex;
     justify-content: center;
     gap: 24px;
 
