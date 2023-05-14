@@ -525,6 +525,16 @@ letter-spacing: 0.02em;
     gap: 16px;
 }
 
+.social-media-text{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#FFFFFF;
+
+    margin-bottom: 16px;
+}
+
 .link-footer{
     width: 100%;
     height: 100%;
@@ -544,18 +554,10 @@ letter-spacing: 0.02em;
     gap: 120px;
 }
 
-.socil-media-text{
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color:#FFFFFF;
 
-    margin-bottom: 16px;
-}
 
 .footer-logo{
-    
+
 }
 
 
