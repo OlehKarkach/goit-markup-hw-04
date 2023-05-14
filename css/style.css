@@ -349,13 +349,15 @@ letter-spacing: 0.02em;
     display: flex;
     justify-content: center;
     gap: 24px;
-    width: 40px;
-    height: 40px;
+    /* width: 40px;
+    height: 40px; */
 }
 
 .social-media-item{
     display: flex;
     /* justify-content: center; */
+    width: 40px;
+    height: 40px;
 }
 
 
