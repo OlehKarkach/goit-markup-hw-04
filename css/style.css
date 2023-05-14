@@ -345,13 +345,15 @@ letter-spacing: 0.02em;
 .social-media{
     display: flex;
     justify-content: center;
-    gap: 24px;
 }
 
 .social-media-item{
     /* display: flex; */
     width: 40px;
     height: 40px;
+}
+.social-media-item+.social-media-item {
+    margin-left:10px;
 }
 
 .social-icon{
