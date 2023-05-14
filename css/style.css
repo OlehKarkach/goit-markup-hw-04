@@ -367,6 +367,11 @@ letter-spacing: 0.02em;
     justify-content: center;
 }
 
+.social-icon:hover,
+.social-icon:focus{
+    background-color: #404bbf;
+}
+
 
 .team-list-item{
     border-radius: 0px 0px 4px 4px;
