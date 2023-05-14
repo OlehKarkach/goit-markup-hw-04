@@ -554,7 +554,9 @@ letter-spacing: 0.02em;
     gap: 120px;
 }
 
-
+.footer-icon{
+    margin-left: 120px;
+}
 
 /* =====================PAGE#2==================== */
 
