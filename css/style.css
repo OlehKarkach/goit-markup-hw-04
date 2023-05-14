@@ -372,6 +372,10 @@ letter-spacing: 0.02em;
     background-color: #404bbf;
 }
 
+.fill{
+    fill: #f4f4fd;
+}
+
 
 .team-list-item{
     border-radius: 0px 0px 4px 4px;
