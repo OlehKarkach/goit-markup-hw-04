@@ -345,6 +345,13 @@ letter-spacing: 0.02em;
     padding-right: 16px;
 }
 
+.social-meadia{
+    /* display: flex; */
+    justify-content: center;
+    gap: 24px;
+
+}
+
 
 .team-list-item{
     border-radius: 0px 0px 4px 4px;
