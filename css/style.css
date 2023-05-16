@@ -501,7 +501,7 @@ letter-spacing: 0.02em;
     align-items: center;
     justify-content: center;
 
-    color:#8e8f99;
+    /* color:#8e8f99; */
     fill: currentColor;
     
 }
