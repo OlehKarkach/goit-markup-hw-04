@@ -502,8 +502,8 @@ letter-spacing: 0.02em;
     justify-content: center;
 
     color:#8e8f99;
-    /* fill: currentColor; */
-    fill:#f4f4fd;
+    fill: currentColor;
+    
 }
 
 .link-icon{
