@@ -222,7 +222,7 @@ letter-spacing: 0.02em;
 }
 
 .fill-footer{
-    fill: var(--logo-footer-color);
+    fill:#f4f4fd;
 }
 
 
