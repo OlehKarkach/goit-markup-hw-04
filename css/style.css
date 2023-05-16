@@ -355,11 +355,9 @@ letter-spacing: 0.02em;
 .job-title{
     padding-top: 32px;
     padding-bottom: 32px; 
-    padding: 32px 0;
     padding-left: 16px;
     padding-right: 16px;
-    padding-top: 32px;
-    padding-bottom: 32px;
+
 }
 
 .social-media{
@@ -372,6 +370,7 @@ letter-spacing: 0.02em;
     /* display: flex; */
     width: 40px;
     height: 40px;
+    margin-top: 8px;
     
 }
 
@@ -501,7 +500,6 @@ letter-spacing: 0.02em;
     align-items: center;
     justify-content: center;
 
-    /* color:#8e8f99; */
     fill: currentColor;
     
 }
